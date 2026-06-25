@@ -1,0 +1,38 @@
+[ 
+    {
+        "name": "Sauce Labs Backpack",
+        "image": "",
+        "price": "$29.99",
+        "description": "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection."
+    },
+    {
+        "name": "Sauce Labs Bolt T-Shirt",
+        "image": "",
+        "price": "15.99",
+        "description": ""
+    },
+    {
+        "name": "Sauce Labs Onesie",
+        "image": "",
+        "price": "7.99",
+        "description": ""
+    },
+    {
+        "name": "Sauce Labs Bike Light",
+        "image": "",
+        "price": "9.99",
+        "description": "A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included."
+    },
+    {
+        "name": "Sauce Labs Fleece Jacket",
+        "image": "",
+        "price": "49.99",
+        "description": ""
+    },
+    {
+        "name": "Test.allTheThings() T-Shirt (Red)",
+        "image": "",
+        "price": "15.99",
+        "description": ""
+    }
+]
