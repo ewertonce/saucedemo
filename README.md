@@ -1,2 +1,2 @@
-# qa-testing
-test project to evaluate qa skills
+# saucedemo
+test project to evaluate qa skills using playwright and javascript
